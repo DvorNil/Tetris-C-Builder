@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.578,=C:\Users\MinaS\OneDrive\Dokumenty\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.722,C:\Users\MinaS\OneDrive\Dokumenty\Embarcadero\Studio\Projects\Unit1.cpp=C:\Files\Code\dz\Игра\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.592,C:\Users\MinaS\OneDrive\Dokumenty\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Files\Code\dz\Игра\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.505,=C:\Users\MinaS\OneDrive\Dokumenty\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.620,C:\Users\MinaS\OneDrive\Dokumenty\Embarcadero\Studio\Projects\Project1.cbproj=C:\Files\Code\dz\Игра\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.410,C:\Files\Code\dz\Игра\Project1.cbproj=C:\Files\Code\dz\Игра\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.722,C:\Users\MinaS\OneDrive\Dokumenty\Embarcadero\Studio\Projects\Unit1.dfm=C:\Files\Code\dz\Игра\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.722,C:\Users\MinaS\OneDrive\Dokumenty\Embarcadero\Studio\Projects\Unit1.h=C:\Files\Code\dz\Игра\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>
